@@ -1,17 +1,23 @@
 import * as React from 'react';
-import { Text, View} from 'react-native';
+import { Text, View, Div} from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { NavigationContainer } from '@react-navigation/native';
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
 import { SafeAreaView} from 'react-navigation'
 import CameraPage from './screens/CameraScreen';
+import something from './categoriesIn.json';
+
 
 function HomeScreen() {
   return (
     <SafeAreaView style= { { flex : 1 } }>
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text>Home!</Text>
+      {something.map((postDetail, index) => {
+        return <Text> {postDetail.Categories} </Text>
+      })}
+
     </View>
     </SafeAreaView >
   );
@@ -28,6 +34,7 @@ function SettingsScreen() {
 }
 
 // const Tab = createBottomTabNavigator();
+
 const Tab = createMaterialTopTabNavigator();
 
 export default function App() {
@@ -44,7 +51,7 @@ export default function App() {
             if (route.name === 'Home') {
               iconName = focused ? 'ios-information-circle' : 'ios-information-circle-outline';
             } else if (route.name === 'Settings') {
-              iconName = focused ? 'ios-list-box' : 'ios-list';
+              iconName = focused ? 'ios-folder' : 'ios-folder';
             }
             else if (route.name === 'Camera') {
               iconName = focused ? 'ios-camera' : 'ios-camera';
