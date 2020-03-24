@@ -1,18 +1,16 @@
 import * as React from 'react';
-import { Text, View, Div} from 'react-native';
+import { Text, View, Div, SafeAreaView} from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { NavigationContainer } from '@react-navigation/native';
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
-import { SafeAreaView} from 'react-navigation'
 import CameraPage from './screens/CameraScreen';
 import something from './categoriesIn.json';
-
+import HomeActivity from './screens/HomeScreen';
 
 function HomeScreen() {
   return (
     <SafeAreaView style= { { flex : 1 } }>
-    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+    <View style={{ justifyContent: 'center', alignItems: 'center' }}>
       <Text>Home!</Text>
       {something.map((postDetail, index) => {
         return <Text> {postDetail.Categories} </Text>
@@ -68,9 +66,9 @@ export default function App() {
         }}
       
       >
-        <Tab.Screen name="Home" component={HomeScreen} />
+        <Tab.Screen name="Home" component={HomeActivity} />
         <Tab.Screen name="Settings" component={SettingsScreen} />
-        <Tab.Screen name="Camera" component={CameraPage} />
+        {/* <Tab.Screen name="Camera" component={CameraPage} /> */}
       </Tab.Navigator>
  
     </NavigationContainer>

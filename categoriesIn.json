@@ -1,0 +1,51 @@
+[
+        {
+            "Categories": "Tea",
+            "Carbon Emissions": "4",
+            "Environment Policy": "7",
+            "Labour Conditions/Fair Trade": "8",
+            "Final Sum": "19"
+        },
+        {
+            "Categories": "Chocolates",
+            "Carbon Emissions": "6",
+            "Environment Policy": "11",
+            "Labour Conditions/Fair Trade": "11",
+            "Final Sum": "28"
+        },
+        {
+            "Categories": "Resturant",
+            "Carbon Emissions": "7",
+            "Environment Policy": "13",
+            "Labour Conditions/Fair Trade": "3",
+            "Final Sum": "23"
+        },
+        {
+            "Categories": "Body Care",
+            "Carbon Emissions": "4",
+            "Environment Policy": "18",
+            "Labour Conditions/Fair Trade": "4",
+            "Final Sum": "26"
+        },
+        {
+            "Categories": "Electronics",
+            "Carbon Emissions": "6",
+            "Environment Policy": "19",
+            "Labour Conditions/Fair Trade": "14",
+            "Final Sum": "39"
+        },
+        {
+            "Categories": "Beer",
+            "Carbon Emissions": "10",
+            "Environment Policy": "13",
+            "Labour Conditions/Fair Trade": "0",
+            "Final Sum": "23"
+        },
+        {
+            "Categories": "Soda",
+            "Carbon Emissions": "6",
+            "Environment Policy": "12",
+            "Labour Conditions/Fair Trade": "6",
+            "Final Sum": "24"
+        }
+]
