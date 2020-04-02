@@ -6,6 +6,7 @@ import { createMaterialTopTabNavigator } from '@react-navigation/material-top-ta
 import CameraPage from './screens/CameraScreen';
 import something from './categoriesIn.json';
 import HomeActivity from './screens/HomeScreen';
+import Search from './screens/SearchScreen';
 
 function HomeScreen() {
   return (
@@ -67,8 +68,8 @@ export default function App() {
       
       >
         <Tab.Screen name="Home" component={HomeActivity} />
-        <Tab.Screen name="Settings" component={SettingsScreen} />
-        {/* <Tab.Screen name="Camera" component={CameraPage} /> */}
+        <Tab.Screen name="Settings" component={Search} />
+        <Tab.Screen name="Camera" component={CameraPage} />
       </Tab.Navigator>
  
     </NavigationContainer>
