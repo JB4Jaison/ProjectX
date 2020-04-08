@@ -16,9 +16,16 @@ export default class Search extends Component {
   constructor(props) {
     super(props);
     //setting default state
-    this.state = { isLoading: true, text: '' };
+    this.state = { isLoading: true, text: '', show : true };
     this.arrayholder = [];
+    
   }
+
+  GetFlatListItem (fruit_name) {
+   
+    this.setState({text : fruit_name, show: false})
+  
+    }
 
   async componentDidMount() {
     try {
@@ -26,7 +33,7 @@ export default class Search extends Component {
           const responseJson = await response.json();
           this.setState({
               isLoading: false,
-              dataSource: responseJson
+              dataSource: []
           }, function () {
               this.arrayholder = responseJson;
           });
@@ -37,12 +44,18 @@ export default class Search extends Component {
   }
   SearchFilterFunction(text) {
     //passing the inserted text in textinput
+    this.setState({show: true})
     const newData = this.arrayholder.filter(function(item) {
       //applying filter for the inserted text in search bar
     //   const itemData = item.title ? item.title.toUpperCase() : ''.toUpperCase();
       const itemData = item.Categories ? item.Categories.toUpperCase() : ''.toUpperCase();
       const textData = text.toUpperCase();
-      return itemData.indexOf(textData) > -1;
+      const regex = new RegExp("^"+textData, 'i');
+      // return itemData.indexOf(textData) > -1; //if found anywhere in the string return true
+      if(textData == "")
+        return false
+      else
+        return (itemData.search(regex) > -1);
     });
     this.setState({
       //setting the filtered newData on datasource
@@ -54,11 +67,11 @@ export default class Search extends Component {
   ListViewItemSeparator = () => {
     //Item sparator view
     return (
-      <View
+        <View
         style={{
-          height: 0.3,
-          width: '90%',
-          backgroundColor: '#080808',
+          height: 1,
+          width: "100%",
+          backgroundColor: "#607D8B",
         }}
       />
     );
@@ -82,36 +95,45 @@ export default class Search extends Component {
           underlineColorAndroid="transparent"
           placeholder="Search Here"
         />
+        {this.state.show ? (
         <FlatList
           data={this.state.dataSource}
           ItemSeparatorComponent={this.ListViewItemSeparator}
           renderItem={({ item }) => (
             // <Text style={styles.textStyle}>{item.title}</Text>
-            <Text style={styles.textStyle}>{item.Categories}</Text>
+            <Text style={styles.FlatListItemStyle} onPress={this.GetFlatListItem.bind(this, item.Categories)} >
+                 {item.Categories} 
+                </Text>
           )}
           enableEmptySections={true}
           style={{ marginTop: 10 }}
           keyExtractor={(item, index) => index}
         />
+        ) : null}
       </View>
     );
   }
 }
 const styles = StyleSheet.create({
-  viewStyle: {
-    justifyContent: 'center',
-    flex: 1,
-    marginTop: 40,
-    padding: 16,
-  },
-  textStyle: {
-    padding: 10,
-  },
-  textInputStyle: {
-    height: 40,
-    borderWidth: 1,
-    paddingLeft: 10,
-    borderColor: '#009688',
-    backgroundColor: '#FFFFFF',
-  },
+    FlatListItemStyle: {
+        padding: 10,
+        fontSize: 18,
+        height: 44,
+      },
+    viewStyle: {
+        justifyContent: 'center',
+        flex: 1,
+        marginTop: 40,
+        padding: 16,
+    },
+    textStyle: {
+        padding: 10,
+    },
+    textInputStyle: {
+        height: 40,
+        borderWidth: 1,
+        paddingLeft: 10,
+        borderColor: '#009688',
+        backgroundColor: '#FFFFFF',
+    },
 });
