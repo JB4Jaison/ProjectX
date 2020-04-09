@@ -9,7 +9,7 @@ import { StackNavigator } from "react-navigation";
 //import react in our code.
 
 
-export default class TestActivity extends Component {
+export default class HomeActivity extends Component {
 
     constructor(props) {
         super(props);
@@ -27,13 +27,13 @@ export default class TestActivity extends Component {
     
     async componentDidMount() {
       try {
-            const response = await fetch('https://gist.githubusercontent.com/JB4Jaison/93e57a15230394fa30c9ca04de5fe2cb/raw/91f4e76c8056c864057e3b567d61f4705e0e0c6a/categoriesIn.json');
+            const response = await fetch('https://gist.githubusercontent.com/JB4Jaison/4a5de0b7b14a905fbb3ebd02e43d2e3b/raw/8a685a8fc9056ff836312c4a1407c01e1526692d/Beautifiedjson.json');
             const responseJson = await response.json();
             this.setState({
                 isLoading: false,
                 dataSource: []
             }, function () {
-                this.arrayholder = responseJson;
+                this.arrayholder = Object.keys(responseJson);
             });
         }
         catch (error) {
@@ -46,13 +46,15 @@ export default class TestActivity extends Component {
       const newData = this.arrayholder.filter(function(item) {
         //applying filter for the inserted text in search bar
       //   const itemData = item.title ? item.title.toUpperCase() : ''.toUpperCase();
-        const itemData = item.Categories ? item.Categories.toUpperCase() : ''.toUpperCase();
+        
+        const itemData = item ? item.toUpperCase() : ''.toUpperCase();
         const textData = text.toUpperCase();
         const regex = new RegExp("^"+textData, 'i');
         // return itemData.indexOf(textData) > -1; //if found anywhere in the string return true
         if(textData == "")
           return false
         else
+          console.log(itemData);
           return (itemData.search(regex) > -1);
       });
       this.setState({
@@ -138,8 +140,8 @@ export default class TestActivity extends Component {
                             ItemSeparatorComponent={this.ListViewItemSeparator}
                             renderItem={({ item }) => (
                                 // <Text style={styles.textStyle}>{item.title}</Text>
-                                <Text style={styles.FlatListItemStyle} onPress={this.GetFlatListItem.bind(this, item.Categories)} >
-                                    {item.Categories} 
+                                <Text style={styles.FlatListItemStyle} onPress={this.GetFlatListItem.bind(this, item)} >
+                                    {item} 
                                     </Text>
                             )}
                             enableEmptySections={true}
@@ -152,7 +154,7 @@ export default class TestActivity extends Component {
                 <View style={styles.row_one}>
 
                     <TouchableOpacity
-                        onPress={this.buttonClickListener}
+                        onPress={() => navigate('ResultPage', { text: this.state.text }) }
                         style={styles.search}>
                         <Text style={{ color: '#fff' }}>Search</Text>
                     </TouchableOpacity>
