@@ -1,21 +1,19 @@
 import * as React from 'react';
 import { StyleSheet, FlatList,  TextInput,  ActivityIndicator,  Alert, Text, View, SafeAreaView} from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
 import { NavigationContainer } from '@react-navigation/native';
-// import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
 import { createMaterialTopTabNavigator } from 'react-navigation-tabs';
 import CameraPage from './screens/CameraScreen';
 import something from './categoriesIn.json';
 import HomeActivity from './screens/HomeScreen';
 import TestActivity from './screens/TestScreen';
-import Search from './screens/SearchScreen';
+import ResultActivity from './screens/ResultScreen';
 import { createStackNavigator } from 'react-navigation-stack';
 import {createAppContainer} from 'react-navigation';
 
 const Tabs = 
 createMaterialTopTabNavigator({
   HomeActivity: { screen: HomeActivity },
-  SearchScreen: { screen: TestActivity}
+  // TestScreen: { screen: TestActivity}
 },
   {
     tabBarOptions: {
@@ -52,7 +50,8 @@ const TabPages = createAppContainer(createStackNavigator({
       navigationOptions:()=>({
           header:null
       }),},
-  CameraPage: { screen: CameraPage }
+  CameraPage: { screen: CameraPage },
+  ResultPage: { screen: ResultActivity }
 },
 ));
 
@@ -150,4 +149,4 @@ const styles = StyleSheet.create({
       borderColor: '#009688',
       backgroundColor: '#FFFFFF',
   },
-});
+}); 
