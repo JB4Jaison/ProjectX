@@ -6,8 +6,6 @@ import camera from '../assets/images/camera.png';
 import siri from '../assets/images/siri.png';
 import CameraPage from './CameraScreen'
 import { StackNavigator } from "react-navigation";
-//import react in our code.
-
 
 export default class HomeActivity extends Component {
 
@@ -19,9 +17,9 @@ export default class HomeActivity extends Component {
         
     }
     
-    GetFlatListItem (fruit_name) {
+    GetFlatListItem (searched) {
     
-    this.setState({text : fruit_name, show: false})
+    this.setState({text : searched, show: false})
     
     }
     
@@ -50,13 +48,14 @@ export default class HomeActivity extends Component {
         const itemData = item ? item.toUpperCase() : ''.toUpperCase();
         const textData = text.toUpperCase();
         const regex = new RegExp("^"+textData, 'i');
-        // return itemData.indexOf(textData) > -1; //if found anywhere in the string return true
+        // return itemData.indexOf(textData) > -1; // if found anywhere in the string return true
         if(textData == "")
           return false
         else
           return (itemData.search(regex) > -1);
       });
       this.setState({
+
         //setting the filtered newData on datasource
         //After setting the data it will automatically re-render the view
         dataSource: newData,
@@ -76,16 +75,10 @@ export default class HomeActivity extends Component {
       );
     };
 
-  // handlerClick = () => {
-  //   //handler for Long Click
-  //   Alert.alert(' Button Long Pressed');
-  // };
-
-
-
   render() {
     const { navigate } = this.props.navigation;
     if (this.state.isLoading) {
+
       //Loading View while data is loading
       return (
         <View style={{ flex: 1, paddingTop: 20 }}>
@@ -153,7 +146,8 @@ export default class HomeActivity extends Component {
                 <View style={styles.row_one}>
 
                     <TouchableOpacity
-                        onPress={() => navigate('ResultPage', { text: this.state.text }) }
+                        // onPress={() => navigate('ResultPage', { text: this.state.text }) }
+                        onPress={() => navigate('ResultPage', { search : this.state.text }) }
                         style={styles.search}>
                         <Text style={{ color: '#fff' }}>Search</Text>
                     </TouchableOpacity>
