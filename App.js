@@ -3,21 +3,23 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createMaterialTopTabNavigator } from 'react-navigation-tabs';
 import CameraPage from './screens/CameraScreen';
 import HomeActivity from './screens/HomeScreen';
-import TestActivity from './screens/TestScreen';
-import ResultActivity from './screens/ResultScreen';
-import FavouritesActivity from './screens/FavouritesScreen';
+import History from './screens/HistoryScreen';
+import ResultCard from './screens/ResultScreen';
 import { createStackNavigator } from 'react-navigation-stack';
 import {createAppContainer} from 'react-navigation';
+import TestActivity2 from './screens/TestScreen2'
+
 
 const Tabs = 
 createMaterialTopTabNavigator({
   HomeActivity: { screen: HomeActivity },
-  //TestScreen: { screen: TestActivity}  // Currently testing card
-  Favourites : { screen: FavouritesActivity}
+  History: { screen: History},
+  Info : { screen: TestActivity2}
+  
 },
   {
     tabBarOptions: {
-    activeTintColor: '#ffffff',
+    activeTintColor: '#D3D3D3',
     inactiveTintColor: '#ffffff',
     inactiveBackgroundColor: '#353539',
     activeBackgroundColor: '#353539',
@@ -28,15 +30,16 @@ createMaterialTopTabNavigator({
       borderBottomWidth: 2,
     },
     labelStyle:{
-      fontSize: 12,
+      fontSize: 13,
       justifyContent: 'center',
       alignItems: 'center',
     },
     style:{
-      backgroundColor: '#353539',
+      backgroundColor: '#2b2d2f',
     },
     tabStyle: {
-      width:90,
+      width:130,
+      height:55,
     }
   },
 }
@@ -51,8 +54,7 @@ const TabPages = createAppContainer(createStackNavigator({
           headerShown : false
       }),},
   CameraPage: { screen: CameraPage },
-  ResultPage: { screen: ResultActivity },
-  TestPage: { screen: TestActivity }
+  ResultCard: { screen: ResultCard }
 },
 ));
 

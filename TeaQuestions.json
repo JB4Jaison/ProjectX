@@ -1,0 +1,272 @@
+{
+      "Lebensbaum-tee":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"YES",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"YES"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"YES",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"YES",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"YES"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"NO",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"NO"
+         }
+      },
+      "Gepa-tee":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"NO"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"NO",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"NO"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"YES",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"YES"
+         }
+      },
+      "Lipton":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"YES"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"NO",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"YES"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"NO",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"YES"
+         }
+      },
+      "Twinnings":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"NO",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"NO"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"NO",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"NO"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"NO",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"YES"
+         }
+      },
+      "Yogi Tea":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"YES",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"NO"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"YES",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"NO"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"NO",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"NO"
+         }
+      },
+      "Zonnatura":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"YES"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"NO",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"NO"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"NO",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"NO"
+         }
+      },
+      "Dilmah":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"YES"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"NO",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"NO",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"NO",
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"YES"
+         },
+         "Labour_Conditions":{
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"NO"
+         }
+      },
+      "Pickwick":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"NO"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"NO",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"NO"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"NO",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"NO"
+         }
+      },
+      "Piramide":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"YES"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"YES",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"NO",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"NO"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"NO",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"NO"
+         }
+      },
+      "tazo":{
+         "Carbon_Emissions":{
+            "Does the brand (owner) have a policy to reduce climate emissions generated from its own operations as well as its product supply chain?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its 'own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"YES",
+            "Has the brand (owner) disclosed the annual absolute climate footprint of its supply chain that is 'beyond own operations', and has it accomplished an overall absolute climate footprint reduction compared to the result of the previous reporting year?":"NO",
+            "Has the brand (owner) set a target to make at least its own operations fully climate neutral by 2030, and is the brand on track to achieve this target?":"YES"
+         },
+         "Environmental_Policy":{
+            "Does the brand use organic or otherwise environmentally certified tea for at least 5% of its volume?":"YES",
+            "Does the brand use organic or otherwise environmentally certified tea for at least 30% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 50% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 70% of its volume?":"NO",
+            " Does the brand use organic or otherwise environmentally certified tea for at least 95% of its volume?":"NO",
+            " Does the brand (owner) report what percentage of its consumer packaging materials are renewable or made from recycled materials, and does the brand implement best practices or concrete policies which have reduced the environmental impact of their packaging materials?":"NO",
+            " Does the brand (owner) publish its absolute waste materials footprint and implement concrete policies to minimize waste, by reducing, re-using and recycling, thereby decreasing its waste footprint compared to the previous reporting year?":"NO"
+         },
+         "Labour_Conditions":{
+            "Does the brand (owner) have a clear and effective policy to improve the farmers� income that goes beyond certification?":"NO",
+            "Does the brand (company) purchase at least 5% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"YES",
+            "Does the brand (company) purchase at least 20% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) purchase at least 40% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            " Does the brand (company) purchase at least 60% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Labour Conditions : Does the brand (company) purchase at least 80% tea from sources (plantations) that are certified to e.g. have no child labor and no forced labor, and provide a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) use socially certified tea for at least 95% of its volume, thus combating child labor and forced labour, and providing a better living standard for the farmers and workers who produce the tea?":"NO",
+            "Does the brand (company) maintain a published list of tea suppliers, that have collectively contributed to more than 90% of the purchase volume of tea?":"NO"
+         }
+      }
+   }

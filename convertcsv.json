@@ -1,1010 +1,911 @@
 {
-   "Lebensbaum-tee": [
-      {
-         "Carbon_Emissions": 4,
-         "Environmental_Policy": 7,
-         "Labour_Conditions": 5,
-         "Final_sum": 16,
-         "Grade": "A",
-         "Categories": "Tea"
-      }
-   ],
-   "Gepa -tee": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 8,
-         "Final_sum": 13,
-         "Grade": "B",
-         "Categories": "Tea"
-      }
-   ],
-   "Lipton": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 3,
-         "Labour_Conditions": 2,
-         "Final_sum": 8,
-         "Grade": "C",
-         "Categories": "Tea"
-      }
-   ],
-   "Twinnings": [
-      {
-         "Carbon_Emissions": 0,
-         "Environmental_Policy": 3,
-         "Labour_Conditions": 5,
-         "Final_sum": 8,
-         "Grade": "C",
-         "Categories": "Tea"
-      }
-   ],
-   "Yogi Tea": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 1,
-         "Final_sum": 8,
-         "Grade": "C",
-         "Categories": "Tea"
-      }
-   ],
-   "Zonnatura": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 3,
-         "Labour_Conditions": 1,
-         "Final_sum": 6,
-         "Grade": "D",
-         "Categories": "Tea"
-      }
-   ],
-   "Dilmah": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 2,
-         "Final_sum": 5,
-         "Grade": "D",
-         "Categories": "Tea"
-      }
-   ],
-   "Pickwick": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 8,
-         "Final_sum": 5,
-         "Grade": "D",
-         "Categories": "Tea"
-      }
-   ],
-   "Piramide": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 0,
-         "Final_sum": 6,
-         "Grade": "D",
-         "Categories": "Tea"
-      }
-   ],
-   "tazo": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 5,
-         "Grade": "D",
-         "Categories": "Tea"
-      }
-   ],
-   "Tony's Chocolonely": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 9,
-         "Labour_Conditions": 11,
-         "Final_sum": 21,
-         "Grade": "A",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Nuts": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "zotter": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 11,
-         "Labour_Conditions": 8,
-         "Final_sum": 22,
-         "Grade": "A",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Kinder": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 3,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Nutella": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 3,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Hershey's": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 3,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Nesquik": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Bounty": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 3,
-         "Final_sum": 8,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Lindt": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 3,
-         "Grade": "E",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Toblerone": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 0,
-         "Final_sum": 2,
-         "Grade": "E",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Rolo": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "KitKat": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "After Eight": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Mars": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 3,
-         "Final_sum": 8,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Twix": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 3,
-         "Final_sum": 8,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Snickers": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 3,
-         "Final_sum": 8,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Milky way ": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 3,
-         "Final_sum": 8,
-         "Grade": "D",
-         "Categories": "Chocolate"
-      }
-   ],
-   "Green and Black's": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 9,
-         "Labour_Conditions": 8,
-         "Final_sum": 19,
-         "Grade": "B",
-         "Categories": "Chocolate"
-      }
-   ],
-   "IKEA": [
-      {
-         "Carbon_Emissions": 4,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 1,
-         "Final_sum": 9,
-         "Grade": "C",
-         "Categories": "Restaurant"
-      }
-   ],
-   "McDonald's": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "D",
-         "Categories": "Restaurant"
-      }
-   ],
-   "Subway": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "D",
-         "Categories": "Restaurant"
-      }
-   ],
-   "Pizza Hut": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 0,
-         "Final_sum": 2,
-         "Grade": "E",
-         "Categories": "Restaurant"
-      }
-   ],
-   "Domino's Pizza": [
-      {
-         "Carbon_Emissions": 0,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 1,
-         "Final_sum": 1,
-         "Grade": "E",
-         "Categories": "Restaurant"
-      }
-   ],
-   "KFC": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 0,
-         "Final_sum": 2,
-         "Grade": "E",
-         "Categories": "Restaurant"
-      }
-   ],
-   "Vapiano": [
-      {
-         "Carbon_Emissions": 0,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 0,
-         "Final_sum": 0,
-         "Grade": "E",
-         "Categories": "Restaurant"
-      }
-   ],
-   "Burger King": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 1,
-         "Final_sum": 2,
-         "Grade": "E",
-         "Categories": "Restaurant"
-      }
-   ],
-   "La Place": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 3,
-         "Grade": "E",
-         "Categories": "Restaurant"
-      }
-   ],
-   "Dr. Hauschka": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 14,
-         "Labour_Conditions": 1,
-         "Final_sum": 17,
-         "Grade": "B",
-         "Categories": "Body Care"
-      }
-   ],
-   "Self": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 11,
-         "Labour_Conditions": 2,
-         "Final_sum": 15,
-         "Grade": "B",
-         "Categories": "Body Care"
-      }
-   ],
-   "Nivea": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 1,
-         "Final_sum": 5,
-         "Grade": "D",
-         "Categories": "Body Care"
-      }
-   ],
-   "Dove": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 5,
-         "Grade": "D",
-         "Categories": "Body Care"
-      }
-   ],
-   "Dermalogica": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 5,
-         "Grade": "D",
-         "Categories": "Body Care"
-      },
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 5,
-         "Grade": "D",
-         "Categories": "Body Care"
-      }
-   ],
-   "Sante": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 12,
-         "Labour_Conditions": 1,
-         "Final_sum": 15,
-         "Grade": "B",
-         "Categories": "Body Care"
-      }
-   ],
-   "Zao": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 10,
-         "Labour_Conditions": 1,
-         "Final_sum": 12,
-         "Grade": "C",
-         "Categories": "Body Care"
-      }
-   ],
-   "The Body Shop": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 3,
-         "Grade": "E",
-         "Categories": "Body Care"
-      }
-   ],
-   "M.A.C": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 1,
-         "Final_sum": 2,
-         "Grade": "E",
-         "Categories": "Body Care"
-      }
-   ],
-   "Aveda": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 3,
-         "Grade": "E",
-         "Categories": "Body Care"
-      }
-   ],
-   "L'oreal": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "D",
-         "Categories": "Body Care"
-      }
-   ],
-   "Maybelline": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "D",
-         "Categories": "Body Care"
-      }
-   ],
-   "Lavera": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 10,
-         "Labour_Conditions": 1,
-         "Final_sum": 12,
-         "Grade": "C",
-         "Categories": "Body Care"
-      }
-   ],
-   "Living nature": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 10,
-         "Labour_Conditions": 1,
-         "Final_sum": 12,
-         "Grade": "C",
-         "Categories": "Body Care"
-      }
-   ],
-   "Eucerin": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 1,
-         "Final_sum": 7,
-         "Grade": "D",
-         "Categories": "Body Care"
-      }
-   ],
-   "FairPhone": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 12,
-         "Labour_Conditions": 9,
-         "Final_sum": 23,
-         "Grade": "B",
-         "Categories": "Electronics"
-      }
-   ],
-   "Apple": [
-      {
-         "Carbon_Emissions": 5,
-         "Environmental_Policy": 7,
-         "Labour_Conditions": 8,
-         "Final_sum": 20,
-         "Grade": "C",
-         "Categories": "Electronics"
-      }
-   ],
-   "HP": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 7,
-         "Final_sum": 15,
-         "Grade": "C",
-         "Categories": "Electronics"
-      }
-   ],
-   "Samsung ": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 3,
-         "Final_sum": 7,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "Asus": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 7,
-         "Labour_Conditions": 4,
-         "Final_sum": 14,
-         "Grade": "C",
-         "Categories": "Electronics"
-      }
-   ],
-   "Microsoft": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 5,
-         "Final_sum": 8,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "Blackberry": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 5,
-         "Final_sum": 11,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "Sony": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 6,
-         "Final_sum": 11,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "Motorolla": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 3,
-         "Labour_Conditions": 4,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "Dell": [
-      {
-         "Carbon_Emissions": 4,
-         "Environmental_Policy": 3,
-         "Labour_Conditions": 5,
-         "Final_sum": 12,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "Phillips": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 4,
-         "Final_sum": 9,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "Toshiba": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 3,
-         "Final_sum": 8,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "Lenovo": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 5,
-         "Final_sum": 10,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "LG": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 3,
-         "Final_sum": 6,
-         "Grade": "D",
-         "Categories": "Electronics"
-      }
-   ],
-   "HTC": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "E",
-         "Categories": "Electronics"
-      }
-   ],
-   "ZTE": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "E",
-         "Categories": "Electronics"
-      }
-   ],
-   "Huawei": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "E",
-         "Categories": "Electronics"
-      }
-   ],
-   "Beck's": [
-      {
-         "Carbon_Emissions": 4,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 0,
-         "Final_sum": 9,
-         "Grade": "C",
-         "Categories": "Beer"
-      }
-   ],
-   "Amstel": [
-      {
-         "Carbon_Emissions": 5,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 0,
-         "Final_sum": 9,
-         "Grade": "C",
-         "Categories": "Beer"
-      }
-   ],
-   "Heineken": [
-      {
-         "Carbon_Emissions": 5,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 0,
-         "Final_sum": 9,
-         "Grade": "C",
-         "Categories": "Beer"
-      }
-   ],
-   "Guinness": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 0,
-         "Final_sum": 5,
-         "Grade": "D",
-         "Categories": "Beer"
-      }
-   ],
-   "Neumarkter Lammsbr�u": [
-      {
-         "Carbon_Emissions": 6,
-         "Environmental_Policy": 10,
-         "Labour_Conditions": 0,
-         "Final_sum": 16,
-         "Grade": "B",
-         "Categories": "Beer"
-      }
-   ],
-   "Corona": [
-      {
-         "Carbon_Emissions": 4,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 0,
-         "Final_sum": 9,
-         "Grade": "C",
-         "Categories": "Beer"
-      }
-   ],
-   "Warsteiner": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 6,
-         "Labour_Conditions": 0,
-         "Final_sum": 9,
-         "Grade": "C",
-         "Categories": "Beer"
-      }
-   ],
-   "Bavaria�": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 0,
-         "Final_sum": 2,
-         "Grade": "E",
-         "Categories": "Beer"
-      }
-   ],
-   "Sprite": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 7,
-         "Grade": "D",
-         "Categories": "Soda"
-      }
-   ],
-   "Fanta": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 7,
-         "Grade": "D",
-         "Categories": "Soda"
-      }
-   ],
-   "Coca-Cola": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 7,
-         "Grade": "D",
-         "Categories": "Soda"
-      }
-   ],
-   "7UP": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "D",
-         "Categories": "Soda"
-      }
-   ],
-   "Pepsi": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 4,
-         "Grade": "D",
-         "Categories": "Soda"
-      }
-   ],
-   "Dr Pepper": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 1,
-         "Labour_Conditions": 1,
-         "Final_sum": 3,
-         "Grade": "E",
-         "Categories": "Soda"
-      }
-   ],
-   "Red Bull": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 0,
-         "Final_sum": 1,
-         "Grade": "E",
-         "Categories": "Soda"
-      }
-   ],
-   "Bionade": [
-      {
-         "Carbon_Emissions": 4,
-         "Environmental_Policy": 7,
-         "Labour_Conditions": 0,
-         "Final_sum": 11,
-         "Grade": "C",
-         "Categories": "Soda"
-      }
-   ],
-   "Punica": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 2,
-         "Final_sum": 7,
-         "Grade": "D",
-         "Categories": "Soda"
-      }
-   ],
-   "Almdudler": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 1,
-         "Final_sum": 2,
-         "Grade": "E",
-         "Categories": "Soda"
-      }
-   ],
-   "Club-Mate": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 3,
-         "Labour_Conditions": 0,
-         "Final_sum": 4,
-         "Grade": "D",
-         "Categories": "Soda"
-      }
-   ],
-   "Gucci": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 4,
-         "Final_sum": 12,
-         "Grade": "D",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Burberry": [
-      {
-         "Carbon_Emissions": 2,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 6,
-         "Final_sum": 10,
-         "Grade": "D",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Stella McCartney": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 7,
-         "Labour_Conditions": 6,
-         "Final_sum": 16,
-         "Grade": "C",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Alexander McQueen": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 5,
-         "Labour_Conditions": 4,
-         "Final_sum": 12,
-         "Grade": "D",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Saint Laurent": [
-      {
-         "Carbon_Emissions": 3,
-         "Environmental_Policy": 4,
-         "Labour_Conditions": 4,
-         "Final_sum": 11,
-         "Grade": "D",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Louis Vuitton": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 3,
-         "Labour_Conditions": 2,
-         "Final_sum": 6,
-         "Grade": "D",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Givenchy": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 2,
-         "Final_sum": 5,
-         "Grade": "E",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Fendi": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 2,
-         "Final_sum": 5,
-         "Grade": "E",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Dior": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 2,
-         "Final_sum": 5,
-         "Grade": "E",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Prada": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 2,
-         "Labour_Conditions": 0,
-         "Final_sum": 3,
-         "Grade": "E",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Giorgio Armani": [
-      {
-         "Carbon_Emissions": 0,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 2,
-         "Final_sum": 2,
-         "Grade": "E",
-         "Categories": "Luxury Brands"
-      }
-   ],
-   "Jimmy Choo": [
-      {
-         "Carbon_Emissions": 1,
-         "Environmental_Policy": 0,
-         "Labour_Conditions": 0,
-         "Final_sum": 1,
-         "Grade": "E",
-         "Categories": "Luxury Brands"
-      }
-   ]
+	"Lebensbaum-tee": [{
+		"Carbon_Emissions": 4,
+		"Environmental_Policy": 7,
+		"Labour_Conditions": 5,
+		"Final_sum": 16,
+		"Grade": "A",
+		"Categories": "Tea",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNdl8fLSAG7SW7zQ9RMv6dI5AV_hSG7Qy_nDY18StGb253sHvQ&usqp=CAU"
+	}],
+	"Gepa-tee": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 8,
+		"Final_sum": 13,
+		"Grade": "B",
+		"Categories": "Tea",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9SVn2yknu8iLhdsLLJPPVt7EXcdgDBKh_uoRIrOz0svsr60XO&usqp=CAU"
+	}],
+	"Gepa -tee": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 8,
+		"Final_sum": 13,
+		"Grade": "B",
+		"Categories": "Tea",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9SVn2yknu8iLhdsLLJPPVt7EXcdgDBKh_uoRIrOz0svsr60XO&usqp=CAU"
+	}],
+	"Lipton": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 3,
+		"Labour_Conditions": 2,
+		"Final_sum": 8,
+		"Grade": "C",
+		"Categories": "Tea",
+		"Images": "https://logos-download.com/wp-content/uploads/2016/04/Lipton_logo_logotype_emblem.png"
+	}],
+	"Twinnings": [{
+		"Carbon_Emissions": 0,
+		"Environmental_Policy": 3,
+		"Labour_Conditions": 5,
+		"Final_sum": 8,
+		"Grade": "C",
+		"Categories": "Tea",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4EDAY3DsYsY33pXy_m5hCJoqcuyIqTKvBKg3hDlpZ5bu7kIR1&usqp=CAU"
+	}],
+	"Yogi Tea": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 1,
+		"Final_sum": 8,
+		"Grade": "C",
+		"Categories": "Tea",
+		"Images": "https://upload.wikimedia.org/wikipedia/en/a/af/Yogi_Tea_Logo.png"
+	}],
+	"Zonnatura": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 3,
+		"Labour_Conditions": 1,
+		"Final_sum": 6,
+		"Grade": "D",
+		"Categories": "Tea",
+		"Images": "https://images-na.ssl-images-amazon.com/images/I/41F94Fbgk0L.jpg"
+	}],
+	"Dilmah": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 2,
+		"Final_sum": 5,
+		"Grade": "D",
+		"Categories": "Tea",
+		"Images": "https://seeklogo.com/images/D/Dilmah-logo-3569EA500B-seeklogo.com.png"
+	}],
+	"Pickwick": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 8,
+		"Final_sum": 5,
+		"Grade": "D",
+		"Categories": "Tea",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUFLNhHXSa7XbIKwGVbJELymYuj_AYCDQ62UmcAcpszo20Rrvb&usqp=CAU"
+	}],
+	"Piramide": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 0,
+		"Final_sum": 6,
+		"Grade": "D",
+		"Categories": "Tea",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzWNlWK8VLzf_sl9UqcS-QUif1xU4o2o91lf6qjw9muC5Tlo62&usqp=CAU"
+	}],
+	"tazo": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 5,
+		"Grade": "D",
+		"Categories": "Tea",
+		"Images": "https://logos-download.com/wp-content/uploads/2016/12/Tazo_Tea_photo_image-700x373.jpg"
+	}],
+	"Tony's Chocolonely": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 9,
+		"Labour_Conditions": 11,
+		"Final_sum": 21,
+		"Grade": "A",
+		"Categories": "Chocolate",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ77W4yjb9CB8w08izmnwpN2-ueENZ1RMQdqYfIyTR2CSr8Wnr4&usqp=CAU"
+	}],
+	"Nuts": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": ""
+	}],
+	"zotter": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 11,
+		"Labour_Conditions": 8,
+		"Final_sum": 22,
+		"Grade": "A",
+		"Categories": "Chocolate",
+		"Images": "https://pbs.twimg.com/profile_images/870652949638328320/PFCJzZOW_400x400.jpg"
+	}],
+	"Kinder": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 3,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://www.kinder.com/in/brands/kinder/themes/custom/kinder_theme/logo.svg?t=1588067295"
+	}],
+	"Nutella": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 3,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032012/nutella.png?itok=V_UIU2t_"
+	}],
+	"Hershey's": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 3,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/1807/brand.gif?itok=2g6cvAwY"
+	}],
+	"Nesquik": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://i.pinimg.com/originals/ff/d1/e0/ffd1e05e5c1b24cc20e84d4043001809.jpg"
+	}],
+	"Bounty": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 3,
+		"Final_sum": 8,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://img.favpng.com/14/6/3/bounty-chocolate-bar-milkshake-mars-incorporated-png-favpng-3AsHTYPF78sSKqqzunXiTtSNN.jpg"
+	}],
+	"Lindt": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 3,
+		"Grade": "E",
+		"Categories": "Chocolate",
+		"Images": "https://qph.fs.quoracdn.net/main-qimg-d26361934015e2de6a72371387929c6a"
+	}],
+	"Toblerone": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 0,
+		"Final_sum": 2,
+		"Grade": "E",
+		"Categories": "Chocolate",
+		"Images": "https://cdn.images.express.co.uk/img/dynamic/130/590x/The-Toblerone-logo-782558.jpg"
+	}],
+	"Rolo": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://www.logolynx.com/images/logolynx/s_74/741aab17414e79c4c09995cb1c2905dc.jpeg"
+	}],
+	"KitKat": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/KitKat_logo.svg/1200px-KitKat_logo.svg.png"
+	}],
+	"After Eight": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://www.dafont.com/forum/attach/orig/3/0/305070.jpg"
+	}],
+	"Mars": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 3,
+		"Final_sum": 8,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://www.chocolatebrandslist.com/wp-content/uploads/2017/05/Mars-official-logo-of-the-company.jpg"
+	}],
+	"Twix": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 3,
+		"Final_sum": 8,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://www.logolynx.com/images/logolynx/0d/0da0faf2191d7aaeb03ed98364b0ca22.png"
+	}],
+	"Snickers": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 3,
+		"Final_sum": 8,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://i.pinimg.com/originals/3a/8d/5b/3a8d5b089cde5612cc63456ee1fc893b.jpg"
+	}],
+	"Milky way ": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 3,
+		"Final_sum": 8,
+		"Grade": "D",
+		"Categories": "Chocolate",
+		"Images": "https://i.pinimg.com/originals/ff/81/36/ff81367c7db4a1f8dfb698850d35d835.png"
+	}],
+	"Green and Black's": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 9,
+		"Labour_Conditions": 8,
+		"Final_sum": 19,
+		"Grade": "B",
+		"Categories": "Chocolate",
+		"Images": "https://upload.wikimedia.org/wikipedia/en/a/ac/Green-and-blacks-logo.jpg"
+	}],
+	"IKEA": [{
+		"Carbon_Emissions": 4,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 1,
+		"Final_sum": 9,
+		"Grade": "C",
+		"Categories": "Restaurant",
+		"Images": "https://i.pinimg.com/originals/23/d8/c3/23d8c34fe64808105b69ab68843b10ef.jpg"
+	}],
+	"McDonald's": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "D",
+		"Categories": "Restaurant",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiYqYl01cxzzUuNMce_c6LmxWeMyMfPOJdhY0obqe86akyFo6e&usqp=CAU"
+	}],
+	"Subway": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "D",
+		"Categories": "Restaurant",
+		"Images": "https://www.designmantic.com/blog/wp-content/uploads/2016/08/SubWayNewLogo-718x300.png"
+	}],
+	"Pizza Hut": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 0,
+		"Final_sum": 2,
+		"Grade": "E",
+		"Categories": "Restaurant",
+		"Images": "https://i.ytimg.com/vi/A1V1-RiQjIg/maxresdefault.jpg"
+	}],
+	"Domino's Pizza": [{
+		"Carbon_Emissions": 0,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 1,
+		"Final_sum": 1,
+		"Grade": "E",
+		"Categories": "Restaurant",
+		"Images": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png"
+	}],
+	"KFC": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 0,
+		"Final_sum": 2,
+		"Grade": "E",
+		"Categories": "Restaurant",
+		"Images": "https://i.pinimg.com/originals/aa/92/89/aa9289de1ed2865bccd7c7457f246482.jpg"
+	}],
+	"Vapiano": [{
+		"Carbon_Emissions": 0,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 0,
+		"Final_sum": 0,
+		"Grade": "E",
+		"Categories": "Restaurant",
+		"Images": "https://bus265marvinelequin.files.wordpress.com/2014/03/vapiano-logo.jpg"
+	}],
+	"Burger King": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 1,
+		"Final_sum": 2,
+		"Grade": "E",
+		"Categories": "Restaurant",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoBFp2f-BwwOyhgRJ1JrGvgLvn6SIV7dbVdmnm354_lNNHXmAE&usqp=CAU"
+	}],
+	"La Place": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 3,
+		"Grade": "E",
+		"Categories": "Restaurant",
+		"Images": "https://upload.wikimedia.org/wikipedia/commons/1/15/LaPlaceLogo.jpg"
+	}],
+	"Dr.Hauschka": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 14,
+		"Labour_Conditions": 1,
+		"Final_sum": 17,
+		"Grade": "B",
+		"Categories": "Body Care",
+		"Images": "https://m.media-amazon.com/images/S/aplus-media/sc/0f64b541-06fa-45de-ba8b-fd614f02a367.__CR0,0,600,180_PT0_SX600_V1___.jpg"
+	}],
+	"Self": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 11,
+		"Labour_Conditions": 2,
+		"Final_sum": 15,
+		"Grade": "B",
+		"Categories": "Body Care",
+		"Images": ""
+	}],
+	"Nivea": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 1,
+		"Final_sum": 5,
+		"Grade": "D",
+		"Categories": "Body Care",
+		"Images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nivea_logo.svg/1200px-Nivea_logo.svg.png"
+	}],
+	"Dove": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 5,
+		"Grade": "D",
+		"Categories": "Body Care",
+		"Images": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/dove-1-converted.png?itok=0R0MsP-C"
+	}],
+	"Dermalogica": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 5,
+		"Grade": "D",
+		"Categories": "Body Care",
+		"Images": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0011/2068/brand.gif?itok=T-QmgHIg"
+	}],
+	"Sante": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 12,
+		"Labour_Conditions": 1,
+		"Final_sum": 15,
+		"Grade": "B",
+		"Categories": "Body Care",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGzSpoGFBCwL58hLGTXIA_k-QX9VHvZir_dZs4yGcjx1tmRnHn&usqp=CAU"
+	}],
+	"Zao": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 10,
+		"Labour_Conditions": 1,
+		"Final_sum": 12,
+		"Grade": "C",
+		"Categories": "Body Care",
+		"Images": "https://howsinchina.com/images/Zao_fl.jpg"
+	}],
+	"The Body Shop": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 3,
+		"Grade": "E",
+		"Categories": "Body Care",
+		"Images": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102012/tbs-logo-2013.png?itok=guB5lx5_"
+	}],
+	"M.A.C": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 1,
+		"Final_sum": 2,
+		"Grade": "E",
+		"Categories": "Body Care",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJgGq9yFkWE347iEZxxQQztRpNTPP_Va9qsCWkTyrDp1WPS9XZ&usqp=CAU"
+	}],
+	"Aveda": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 3,
+		"Grade": "E",
+		"Categories": "Body Care",
+		"Images": " https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRix5ZG4KYvAaLbxtU_pxEkXHWojIE_mg0l9haK41ai_z9YdkM_&usqp=CAU"
+	}],
+	"L'oreal": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "D",
+		"Categories": "Body Care",
+		"Images": "https://www.loreal-finance.com/sites/default/files/styles/rss_feed_312x312/public/publication-content/images/Logo_OA863x533.jpg?itok=-9TEZ_7V"
+	}],
+	"Maybelline": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "D",
+		"Categories": "Body Care",
+		"Images": "https://banner2.cleanpng.com/20180707/zto/kisspng-logo-brand-maybelline-5b40f5cfe4de18.6737529515309838879375.jpg"
+	}],
+	"Lavera": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 10,
+		"Labour_Conditions": 1,
+		"Final_sum": 12,
+		"Grade": "C",
+		"Categories": "Body Care",
+		"Images": "https://i.pinimg.com/originals/c0/a1/d1/c0a1d173d6fcaaee3971ddc3d7e37647.jpg"
+	}],
+	"Living nature": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 10,
+		"Labour_Conditions": 1,
+		"Final_sum": 12,
+		"Grade": "C",
+		"Categories": "Body Care",
+		"Images": "https://m.media-amazon.com/images/S/abs-image-upload-na/3/AmazonStores/ATVPDKIKX0DER/7638c25e563fb284f272a3fee24cd915.w400.h400.jpg"
+	}],
+	"Eucerin": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 1,
+		"Final_sum": 7,
+		"Grade": "D",
+		"Categories": "Body Care",
+		"Images": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/3591/brand.gif?itok=RK_lFmZD"
+	}],
+	"FairPhone": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 12,
+		"Labour_Conditions": 9,
+		"Final_sum": 23,
+		"Grade": "B",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhAJQ5kzZ6OS8kWQ_yK7bTCKz6BqSK54ICZ9pkMT8Gpm1eYDBo&usqp=CAU"
+	}],
+	"Apple": [{
+		"Carbon_Emissions": 5,
+		"Environmental_Policy": 7,
+		"Labour_Conditions": 8,
+		"Final_sum": 20,
+		"Grade": "C",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShzixVZ0J0mxWYfB48lSTqo6l-YHM-hpbU8HAsI4HgxravpS2w&usqp=CAU"
+	}],
+	"HP": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 7,
+		"Final_sum": 15,
+		"Grade": "C",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgv5ccJySPs678q_CIgifULA5ZMaSkyGhgmI-Qo6JPQZ7Wn1vZ&usqp=CAU"
+	}],
+	"Samsung ": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 3,
+		"Final_sum": 7,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxpV6absoc1DfYuYYh7c3LTl8TKZ76geI9sT8plMOpWVy_uVsY&usqp=CAU"
+	}],
+	"Asus": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 7,
+		"Labour_Conditions": 4,
+		"Final_sum": 14,
+		"Grade": "C",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHPBQt7Io59jQXFkxvTV1eH6vdIj4q5yrODKBXCGIEtV42AL4F&usqp=CAU"
+	}],
+	"Microsoft": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 5,
+		"Final_sum": 8,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdpDLPDM8Y0jkIPJr7jdzzOgbJyOW1o5sS82o-FL67WAR9Ho6N&usqp=CAU"
+	}],
+	"Blackberry": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 5,
+		"Final_sum": 11,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUOlDupc9_XfrqyzwdHI1CRB2mDIVw97S5_k7U5k08nJJNyO8m&usqp=CAU"
+	}],
+	"Sony": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 6,
+		"Final_sum": 11,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgsyjihF-AwjLoyUewRLwBBR0N3RhA80lAd33U8T50Cy2wOND&s"
+	}],
+	"Motorolla": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 3,
+		"Labour_Conditions": 4,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_S-r2JGf9EnuJib-g-FPTnexqvX3y-V6dtkQan4ObQ3iNuL-w&usqp=CAU"
+	}],
+	"Dell": [{
+		"Carbon_Emissions": 4,
+		"Environmental_Policy": 3,
+		"Labour_Conditions": 5,
+		"Final_sum": 12,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM-pjyeY93V_KrvDlO8Bocsg9sajNXfrySWQSKxJttCGYmX6iF&usqp=CAU"
+	}],
+	"Phillips": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 4,
+		"Final_sum": 9,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwElCRdkh1JsRM0gOvqULqQuoV4GGvPrbp5KZan6R3JcnJK4p5&usqp=CAU"
+	}],
+	"Toshiba": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 3,
+		"Final_sum": 8,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSP8okFAQBoYyjt8CIKT_j3fchL7HcF6420MqOX1DwvGppJBwt&usqp=CAU"
+	}],
+	"Lenovo": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 5,
+		"Final_sum": 10,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSp-cpbrxTCcKrARNRrNVUu9bq5QSNtUekUXyf7win8df_iW8H8&usqp=CAU"
+	}],
+	"LG": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 3,
+		"Final_sum": 6,
+		"Grade": "D",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgZj7OUthJLEEKTp694wm6jAxSgJWW8j8IFErAn_ENQQ8hHMD1&usqp=CAU"
+	}],
+	"HTC": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "E",
+		"Categories": "Electronics",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTYEOUviK6pm5NYfm5URLcYBJIaHhhcNvbiNAA6g72yAux3Cya&usqp=CAU"
+	}],
+	"ZTE": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "E",
+		"Categories": "Electronics",
+		"Images": ""
+	}],
+	"Huawei": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "E",
+		"Categories": "Electronics",
+		"Images": ""
+	}],
+	"Beck's": [{
+		"Carbon_Emissions": 4,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 0,
+		"Final_sum": 9,
+		"Grade": "C",
+		"Categories": "Beer",
+		"Images": ""
+	}],
+	"Amstel": [{
+		"Carbon_Emissions": 5,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 0,
+		"Final_sum": 9,
+		"Grade": "C",
+		"Categories": "Beer",
+		"Images": ""
+	}],
+	"Heineken": [{
+		"Carbon_Emissions": 5,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 0,
+		"Final_sum": 9,
+		"Grade": "C",
+		"Categories": "Beer",
+		"Images": ""
+	}],
+	"Guinness": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 0,
+		"Final_sum": 5,
+		"Grade": "D",
+		"Categories": "Beer",
+		"Images": ""
+	}],
+	"NeumarkterLammsbr u": [{
+		"Carbon_Emissions": 6,
+		"Environmental_Policy": 10,
+		"Labour_Conditions": 0,
+		"Final_sum": 16,
+		"Grade": "B",
+		"Categories": "Beer",
+		"Images": ""
+	}],
+	"Corona": [{
+		"Carbon_Emissions": 4,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 0,
+		"Final_sum": 9,
+		"Grade": "C",
+		"Categories": "Beer",
+		"Images": ""
+	}],
+	"Warsteiner": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 6,
+		"Labour_Conditions": 0,
+		"Final_sum": 9,
+		"Grade": "C",
+		"Categories": "Beer",
+		"Images": ""
+	}],
+	"Bavaria ": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 0,
+		"Final_sum": 2,
+		"Grade": "E",
+		"Categories": "Beer",
+		"Images": ""
+	}],
+	"Sprite": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 7,
+		"Grade": "D",
+		"Categories": "Soda",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMvGhitqlOF0sj10HeYejOALl3Zrg35oPqrx0fGui7TEHcGHgi&usqp=CAU"
+	}],
+	"Fanta": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 7,
+		"Grade": "D",
+		"Categories": "Soda",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKdWa1AxM4-qzBRuXm9wkK6_hxT2uyNyCeWt9cDuiWIe3Mg0gm&usqp=CAU"
+	}],
+	"Coca-Cola": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 7,
+		"Grade": "D",
+		"Categories": "Soda",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEwzvHYxYO3MOS197k4pSoA5LwZkqfHPeoMYmxEfmZDGWVpcXV&usqp=CAU"
+	}],
+	"7UP": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "D",
+		"Categories": "Soda",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQw2sqt29kdq0bYU3iquC8Ty6uEuy23eXMdXHBLsM7DFvCiYLlU&usqp=CAU"
+	}],
+	"Pepsi": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 4,
+		"Grade": "D",
+		"Categories": "Soda",
+		"Images": ""
+	}],
+	"Dr Pepper": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 1,
+		"Labour_Conditions": 1,
+		"Final_sum": 3,
+		"Grade": "E",
+		"Categories": "Soda",
+		"Images": ""
+	}],
+	"Red Bull": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 0,
+		"Final_sum": 1,
+		"Grade": "E",
+		"Categories": "Soda",
+		"Images": ""
+	}],
+	"Bionade": [{
+		"Carbon_Emissions": 4,
+		"Environmental_Policy": 7,
+		"Labour_Conditions": 0,
+		"Final_sum": 11,
+		"Grade": "C",
+		"Categories": "Soda",
+		"Images": ""
+	}],
+	"Punica": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 2,
+		"Final_sum": 7,
+		"Grade": "D",
+		"Categories": "Soda",
+		"Images": ""
+	}],
+	"Almdudler": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 1,
+		"Final_sum": 2,
+		"Grade": "E",
+		"Categories": "Soda",
+		"Images": ""
+	}],
+	"Club-Mate": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 3,
+		"Labour_Conditions": 0,
+		"Final_sum": 4,
+		"Grade": "D",
+		"Categories": "Soda",
+		"Images": ""
+	}],
+	"Gucci": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 4,
+		"Final_sum": 12,
+		"Grade": "D",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSltXSkU_PuB3WefW5LjteurvGJDE11Ev2Zk_5x6AQoiJ7Zu2RC4w&s"
+	}],
+	"Burberry": [{
+		"Carbon_Emissions": 2,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 6,
+		"Final_sum": 10,
+		"Grade": "D",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzsKl2PnyJZXQLgkns2TRSIPLPO3wcuiN7ZFSKB5mQNaEXH8v8&usqp=CAU"
+	}],
+	"Stella McCartney": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 7,
+		"Labour_Conditions": 6,
+		"Final_sum": 16,
+		"Grade": "C",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNJSZaTF4XCpw5OwTLkES9UUBrGI6sh0Y4brGnUDEBeIQddq8V&usqp=CAU"
+	}],
+	"Alexander McQueen": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 5,
+		"Labour_Conditions": 4,
+		"Final_sum": 12,
+		"Grade": "D",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbQUS0jSVKs_g-cRiyvrTCzPR0LLOE6klc1DYEGvf4eDkPG17n&usqp=CAU"
+	}],
+	"Saint Laurent": [{
+		"Carbon_Emissions": 3,
+		"Environmental_Policy": 4,
+		"Labour_Conditions": 4,
+		"Final_sum": 11,
+		"Grade": "D",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKcFB-I_11-6nIYDs3ybHJTsot04XLiWVRHCOOTTz-1_6hVD5i&usqp=CAU"
+	}],
+	"Louis Vuitton": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 3,
+		"Labour_Conditions": 2,
+		"Final_sum": 6,
+		"Grade": "D",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlAkmeoyRiKUKOvFpH-UqH27vPwvKpcaDaQce2EMdzJSCHiPce&usqp=CAU"
+	}],
+	"Givenchy": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 2,
+		"Final_sum": 5,
+		"Grade": "E",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsD74NEG3XrHuqzK3KLyd0J9NBo9MHRudVz8g3nShHj36CKfAE&usqp=CAU"
+	}],
+	"Fendi": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 2,
+		"Final_sum": 5,
+		"Grade": "E",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSga93uKlOHOYkdNvXJHoVDYz5fFLN8zrtnHcyXI1-NCTWw9r9V&usqp=CAU"
+	}],
+	"Dior": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 2,
+		"Final_sum": 5,
+		"Grade": "E",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKSv8li7DKbVzDcT_Yvcu0uGdL4UKGXxS2YyPjqy-lLnsioJJa&usqp=CAU"
+	}],
+	"Prada": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 2,
+		"Labour_Conditions": 0,
+		"Final_sum": 3,
+		"Grade": "E",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhiafVOtdno7veEpFQcSJ4Qc-hMrnSt8DKWqDSY8th-iM2lFdK&usqp=CAU"
+	}],
+	"Giorgio Armani": [{
+		"Carbon_Emissions": 0,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 2,
+		"Final_sum": 2,
+		"Grade": "E",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_F3MnKxblpTODNwDjqIKPVsNKX9-3Y-mtBBpbyVL4RB0nbT5S&usqp=CAU"
+	}],
+	"Jimmy Choo": [{
+		"Carbon_Emissions": 1,
+		"Environmental_Policy": 0,
+		"Labour_Conditions": 0,
+		"Final_sum": 1,
+		"Grade": "E",
+		"Categories": "Luxury Brands",
+		"Images": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3bQcMwDiB0fT446ZK36UhLYV8RB1ImYAg1qa-9BE02aqlXPRO&usqp=CAU"
+	}]
 }

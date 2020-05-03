@@ -1,0 +1,44 @@
+{
+   "Tea": {
+      "Carbon_Emissions": 4,
+      "Environmental_Policy": 7,
+      "Labour_Conditions": 8,
+      "Final_sum": 19
+   },
+   "Chocolate": {
+      "Carbon_Emissions": 6,
+      "Environmental_Policy": 11,
+      "Labour_Conditions": 11,
+      "Final_sum": 28
+   },
+   "Restaurant": {
+      "Carbon_Emissions": 7,
+      "Environmental_Policy": 13,
+      "Labour_Conditions": 3,
+      "Final_sum": 23
+   },
+   "Body Care": {
+      "Carbon_Emissions": 4,
+      "Environmental_Policy": 18,
+      "Labour_Conditions": 4,
+      "Final_sum": 26
+   },
+   "Electronics": {
+      "Carbon_Emissions": 6,
+      "Environmental_Policy": 19,
+      "Labour_Conditions": 14,
+      "Final_sum": 39
+   },
+   "Beer": {
+      "Carbon_Emissions": 10,
+      "Environmental_Policy": 13,
+      "Labour_Conditions": 0,
+      "Final_sum": 23
+   },
+   "Soda": {
+      "Carbon_Emissions": 6,
+      "Environmental_Policy": 12,
+      "Labour_Conditions": 6,
+      "Final_sum": 24
+   }
+}
