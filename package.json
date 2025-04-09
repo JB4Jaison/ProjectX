@@ -24,7 +24,7 @@
     "expo": "^36.0.2",
     "expo-barcode-scanner": "~8.0.0",
     "expo-camera": "~8.0.0",
-    "expo-cli": "^3.11.0",
+    "expo-cli": "^6.3.12",
     "expo-permissions": "~8.0.0",
     "native-base": "^2.13.12",
     "react": "16.11.0",
